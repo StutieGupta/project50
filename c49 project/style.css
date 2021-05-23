@@ -1,0 +1,15 @@
+h1{
+    color: rgb(233, 31, 31)
+}
+body{
+       background-image: linear-gradient(to right,rgb(250, 11, 170),rgb(71, 34, 235));
+}
+
+.header{
+    text-align: center;
+}
+
+.linkk{
+  text-align: end;
+}
+
